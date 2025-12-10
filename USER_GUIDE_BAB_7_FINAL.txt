@@ -1,0 +1,65 @@
+BAB 7
+PANDUAN SISWA, ORANG TUA & FAQ
+
+7.1. Siswa
+
+Lihat Data:
+- Akses: Dashboard Siswa → Pelanggaran/Prestasi/Sanksi
+- Fitur: Lihat data pribadi, Indikator poin, Filter
+
+Bimbingan BK:
+- Akses: Dashboard Siswa → Bimbingan BK
+- Fitur: Ajukan BK, Respon undangan, Lihat hasil
+
+Laporan:
+- Akses: Dashboard Siswa → Laporan
+- Fitur: Export PDF
+
+7.2. Orang Tua
+
+Monitoring Anak:
+- Akses: Dashboard Orang Tua → Data Anak
+- Fitur: Lihat pelanggaran/prestasi/sanksi, Lihat BK, Export PDF
+
+7.3. FAQ
+
+Umum:
+Q: Tidak bisa login setelah registrasi?
+A: Tunggu verifikasi Admin.
+
+Q: Lupa password?
+A: Klik "Lupa Password" di halaman login.
+
+Siswa:
+Q: Ajukan bimbingan BK?
+A: Dashboard → Bimbingan BK → Ajukan BK → Isi form.
+
+Q: Poin tinggi?
+A: Hubungi Wali Kelas/Guru BK. Raih prestasi untuk kurangi poin.
+
+Guru:
+Q: Pelanggaran input saya pending?
+A: Guru perlu verifikasi Kesiswaan/Admin. Wali Kelas langsung approved.
+
+Admin:
+Q: Cara backup database?
+A: Dashboard → Backup Database → Backup Sekarang.
+
+7.4. Troubleshooting
+
+Login:
+- Akun belum terverifikasi: Tunggu Admin
+- Akun terkunci: Hubungi Admin
+
+Export/Upload:
+- PDF tidak terdownload: Cek pengaturan browser
+- File terlalu besar: Maksimal 2MB
+- Format: Gunakan JPG, PNG, PDF
+
+---
+
+AKHIR BAB 7
+
+===================================
+AKHIR USER GUIDE
+===================================

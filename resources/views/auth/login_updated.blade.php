@@ -1,0 +1,11 @@
+                            <select id="role" name="role" required
+                                class="w-full px-3 md:px-4 py-2.5 md:py-3 text-sm md:text-base border-2 border-gray-200 rounded-xl focus:outline-none input-focus transition-all duration-300 bg-gray-50 hover:bg-white">
+                                <option value="">Pilih Role Anda</option>
+                                <option value="admin">👨💼 Administrator</option>
+                                <option value="guru_bk">👩🏫 Guru BK</option>
+                                <option value="wali_kelas">👨🎓 Wali Kelas</option>
+                                <option value="guru">👩🏫 Guru</option>
+                                <option value="kepala_sekolah">👨🎓 Kepala Sekolah</option>
+                                <option value="orang_tua">👨👩 Orang Tua</option>
+                                <option value="siswa">👨🎓 Siswa</option>
+                            </select>

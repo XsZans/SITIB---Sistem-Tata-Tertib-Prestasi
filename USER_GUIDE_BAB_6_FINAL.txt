@@ -1,0 +1,31 @@
+BAB 6
+PANDUAN KESISWAAN & KEPALA SEKOLAH
+
+6.1. Kesiswaan
+
+Verifikasi:- Akses: Dashboard Kesiswaan → Verifikasi Pelanggaran/Prestasi
+
+- Fitur: Approve (✓) atau Reject (✗), Notifikasi otomatis
+
+Kelola Sanksi:
+- Akses: Dashboard Kesiswaan → Sanksi
+- Fitur: Tambah, Edit, Tandai selesai, Batalkan, Monitoring
+
+Laporan & Statistik:
+- Akses: Dashboard Kesiswaan → Laporan/Statistik
+- Fitur: Export PDF/Excel, Grafik, Filter
+
+6.2. Kepala Sekolah
+
+Dashboard:
+- Akses: Dashboard Kepala Sekolah
+- Fitur: Statistik keseluruhan, Grafik tren, Perbandingan kelas
+
+Laporan:
+- Akses: Dashboard Kepala Sekolah → Laporan
+- Fitur: Laporan bulanan/semester/tahunan, Export PDF/PNG
+- Catatan: View Only (tidak bisa input/edit)
+
+---
+
+AKHIR BAB 6

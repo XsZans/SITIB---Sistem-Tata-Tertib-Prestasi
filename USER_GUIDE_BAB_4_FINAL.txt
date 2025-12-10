@@ -1,0 +1,36 @@
+BAB 4
+PANDUAN ADMIN
+
+4.1. Kelola Data Master
+
+Data Siswa:
+- Akses: Dashboard → Data Siswa
+- Fitur: Tambah, Edit, Hapus, Import Excel, Export PDF
+- Catatan: Data orang tua otomatis terhubung dari data siswa
+
+Data Guru:
+- Akses: Dashboard → Data Guru
+- Fitur: Tambah, Edit, Hapus, Assign Role
+
+Jenis Pelanggaran & Prestasi:
+- Akses: Dashboard → Jenis Pelanggaran/Prestasi/Sanksi
+- Fitur: Tambah, Edit, Hapus
+
+4.2. Verifikasi
+
+Verifikasi User:
+- Akses: Dashboard → Verifikasi User
+- Fitur: Approve (✓) atau Reject (✗) user baru
+
+Verifikasi Pelanggaran & Prestasi:
+- Akses: Dashboard → Verifikasi Laporan
+- Fitur: Approve/Reject dengan catatan
+
+4.3. Backup Database
+
+- Akses: Dashboard → Backup Database
+- Fitur: Backup, Restore, Download, Hapus
+
+---
+
+AKHIR BAB 4

@@ -1,0 +1,39 @@
+BAB 5
+PANDUAN GURU (BK & WALI KELAS)
+
+5.1. Guru BK
+
+Buat Sesi Bimbingan:
+- Akses: Dashboard BK → Input Bimbingan
+- Fitur: Tambah sesi, Notifikasi otomatis
+
+Approve Pengajuan BK:
+- Akses: Dashboard BK → Pengajuan BK
+- Fitur: Approve atau Reject pengajuan siswa
+
+Input Hasil Bimbingan:
+- Akses: Dashboard BK → Riwayat Bimbingan
+- Fitur: Input hasil, Notifikasi otomatis
+
+Riwayat & Laporan:
+- Akses: Dashboard BK → Riwayat/Laporan
+- Fitur: Filter, Export PDF
+
+5.2. Wali Kelas
+
+Data Siswa Kelas:
+- Akses: Dashboard Wali Kelas → Data Siswa
+- Fitur: Lihat daftar siswa, Indikator poin
+
+Input Pelanggaran:
+- Akses: Dashboard Wali Kelas → Input Pelanggaran
+- Fitur: Tambah pelanggaran, Upload bukti, Notifikasi otomatis
+- Catatan: Langsung approved tanpa verifikasi
+
+Laporan Kelas:
+- Akses: Dashboard Wali Kelas → Laporan
+- Fitur: Riwayat,  Export PDF, Simpan laporan
+
+---
+
+AKHIR BAB 5
